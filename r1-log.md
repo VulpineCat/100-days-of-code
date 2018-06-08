@@ -15,3 +15,6 @@ Mostly busy with project setup. Wrote a quick and dirty placeholder, set up the 
 
 ### R1D2
 Lots and lots of devops work. Set up a server at [ZapHosting](https://zap-hosting.com), IP: 134.255.219.180, it's a ubunutu vServer. I've learned about DNS Records and adapted the ones of VulpineCat.com
+
+### R1D3
+Today I switched to P#3 instead. I took the current website and made it serve through React via ReactRouter. See the changes [here](https://tinyurl.com/y8dem4ca)
