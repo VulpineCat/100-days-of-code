@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [VulpineCat]
+#100DaysOfCode Log - Round 1 - [VulpineCat]
 
 The log of my #100DaysOfCode challenge. Started on [June 6, Wed, 2018].
 
@@ -18,3 +18,6 @@ Lots and lots of devops work. Set up a server at [ZapHosting](https://zap-hostin
 
 ### R1D3
 Today I switched to P#3 instead. I took the current website and made it serve through React via ReactRouter. See the changes [here](https://tinyurl.com/y8dem4ca)
+
+### R1D4
+Today I switched to a new project: A pronoun assignment bot for discord. See the code [here](https://github.com/VulpineCat/pronoun-discord-bot) and add it to your server [here](https://discordapp.com/api/oauth2/authorize?client_id=455003833223872512&permissions=268435456&scope=bot) 
