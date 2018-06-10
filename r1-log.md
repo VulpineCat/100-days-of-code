@@ -21,3 +21,6 @@ Today I switched to P#3 instead. I took the current website and made it serve th
 
 ### R1D4
 Today I switched to a new project: A pronoun assignment bot for discord. See the code [here](https://github.com/VulpineCat/pronoun-discord-bot) and add it to your server [here](https://discordapp.com/api/oauth2/authorize?client_id=455003833223872512&permissions=268435456&scope=bot) 
+
+### R1D5
+Roadblock: I don't know enough CSS to continue. Started [FrontEnd Masters](https://frontendmasters.com/) course by [Estelle Weyl](https://twitter.com/estellevw). Coding today was focused on improving the [bot](https://github.com/VulpineCat/pronoun-discord-bot) from yesterday.
