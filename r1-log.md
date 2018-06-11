@@ -24,3 +24,6 @@ Today I switched to a new project: A pronoun assignment bot for discord. See the
 
 ### R1D5
 Roadblock: I don't know enough CSS to continue. Started [FrontEnd Masters](https://frontendmasters.com/) course by [Estelle Weyl](https://twitter.com/estellevw). Coding today was focused on improving the [bot](https://github.com/VulpineCat/pronoun-discord-bot) from yesterday.
+
+### R1D6
+Skip
