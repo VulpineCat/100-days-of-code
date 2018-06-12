@@ -27,3 +27,6 @@ Roadblock: I don't know enough CSS to continue. Started [FrontEnd Masters](https
 
 ### R1D6
 Skip
+
+### R1D7
+Continued work on VulpineDesigns website. Albeit quite slowly, as I forgot to push my changes from one of my computers and had to recreate it. Begun writting the Hero Image component today.  Also added ESlint with the airbnb config! [Changes](https://gitlab.vulpinedesigns.co.uk/s0ph0s/vdu-website/commit/abb3349a2692416e6980b82a66dde4305c7d75e8). 
